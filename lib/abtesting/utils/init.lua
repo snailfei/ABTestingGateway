@@ -19,9 +19,9 @@ _M.divtypes = {
     ["uidsuffix"]   = 'uidParser',
     ["uidappoint"]  = 'uidParser',
     ["arg_city"]    = 'cityParser',
-
     ["url"]         = 'urlParser'
-}   
+    ["tracehash"]    = 'traceParser'
+}
 
 _M.prefixConf = {
     ["policyLibPrefix"]     = 'ab:policies',
